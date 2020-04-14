@@ -7,20 +7,12 @@ body
 /* Header */
 header
 {
-    height: 525px;
-    border: 1px solid black;
-    background-color: #2b3035;
-    clip-path: polygon(50% 100%, 100% 69.5%, 100% 0, 0 0, 0 69.5%);
-
-
-}
-.header_items
-{
     height: 57px;
-    border: 1px solid black;
+    border: 1px solid red;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #2b3035;
 }
 .header_links
 {
@@ -78,6 +70,18 @@ header
     border: none;
     padding-left: 4px;
 }
+
+/* Main */
+.alligator_image
+{
+    height: 467px;
+    border: 1px solid black;
+    background-color: #2b3035;
+    clip-path: polygon(50% 100%, 100% 65%, 100% 0, 0 0, 0 65%);
+    /* background:linear-gradient(to left, #2f2a26, transparent); */
+    /* background: linear-gradient(to right, var(--top1), var(--top2)); */
+    
+}
 .alligator_head
 {
     height: 410px;
@@ -86,4 +90,33 @@ header
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+.alligator_head img
+{
+    margin: 2em 0 0;
+    width: 180px;
+    height: 180px;
+}
+.alligator_head h1
+{
+    font-size: 50px;
+    line-height: 48px;
+    font-weight: 200;
+    color: #fff;
+    /* font-family: 'Recursive - 200'; */
+    font-family: Recursive, "Segoe UI", "Helvetica Neue", Helvetica, Roboto, 'Open Sans', FreeSans, sans-serif;
+    width: 600px;
+    text-align: center;
+    margin-block-start:0.2rem ;
+    margin-block-end: 0;
+}
+.alligator_head p
+{
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 31px;
+    color: #fff;
+    width: 300px;
+    text-align: center;
+    margin-block-start: 0.5em;
 }
