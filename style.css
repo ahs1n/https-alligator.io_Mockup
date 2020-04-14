@@ -8,7 +8,7 @@ body
 header
 {
     height: 57px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -72,10 +72,15 @@ header
 }
 
 /* Main */
+.main
+{
+    height: 1349px;
+    background-color: #222831;
+}
 .alligator_image
 {
     height: 467px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-color: #2b3035;
     clip-path: polygon(50% 100%, 100% 65%, 100% 0, 0 0, 0 65%);
     /* background:linear-gradient(to left, #2f2a26, transparent); */
@@ -85,7 +90,7 @@ header
 .alligator_head
 {
     height: 410px;
-    border: orangered 1px solid;
+    /* border: orangered 1px solid; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -99,7 +104,7 @@ header
 }
 .alligator_head h1
 {
-    font-size: 50px;
+    font-size: 48px;
     line-height: 48px;
     font-weight: 200;
     color: #fff;
@@ -119,4 +124,18 @@ header
     width: 300px;
     text-align: center;
     margin-block-start: 0.5em;
+}
+/* Top Posts */
+.top_posts
+{
+
+}
+.top_posts h3
+{
+    text-align: center;
+    font-size: 24px;
+    line-height: 38px;
+    font-weight: 300;
+    color: #fff;
+    margin-block-start: 1.5em;
 }
