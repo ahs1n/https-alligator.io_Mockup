@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+/* Header */
+header
+{
+    height: 525px;
+    border: 1px solid black;
+}
+.header_items
+{
+    height: 57px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.header_links
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
+.header_links a
+{
+    text-decoration: none;
+}
+.header_input
+{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
