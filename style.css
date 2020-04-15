@@ -144,7 +144,7 @@ header
 .top_posts_card
 {
     height: 340px;
-    width: 854px;
+    width: 864px;
     display: flex;
     flex-wrap: wrap;
     /* border: red 1px solid; */
@@ -166,6 +166,15 @@ header
     height: 120px;
     width: 255px;
     background-color: #41B883;
+    border: none;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 4px;
+}
+.row_1_card_color-3
+{
+    height: 120px;
+    width: 255px;
+    background-color: #61DAFB;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
