@@ -74,8 +74,10 @@ header
 /* Main */
 .main
 {
-    height: 2349px;
+    height: 3110px;
     background-color: #222831;
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0 91.5%); */
+
 }
 .alligator_image
 {
@@ -257,20 +259,25 @@ header
 }
 .alligator_head_text
 {
+    height: 1220px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
+    /* background-color: #222831; */
+    background-color: #2e3131;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 88.5%);
 }
 .alligator_head_text h3
 {
+    padding-top: 60px;
     text-align: center;
     font-size: 36px;
     line-height: 36px;
     font-weight: 300;
     color: #efbb35;
-    margin-block-end: 0em;
-    margin-block-start: 3em;
+    margin-block-end: 0.2em;
+    /* margin-block-start: 3em; */
 }
 .alligator_head_text p
 {
@@ -295,4 +302,32 @@ header
 {
     text-decoration: none;
     color:#efbb35;
+}
+.alligator_head_text span
+{
+    background-color: #474431;
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 22px;
+    line-height: 36px;
+    font-weight: 300;
+    border-radius: 5px;
+}
+#seb
+{
+    /* border: solid 1px red; */
+    display: flex;
+    align-items: center ;
+    justify-content: flex-end;
+}
+/* alligator_head_text */
+.languages
+{
+
+}
+#language_logo
+{
+    width: 27PX;
+    height: 27PX;
 }
