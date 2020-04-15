@@ -324,10 +324,24 @@ header
 /* alligator_head_text */
 .languages
 {
-
+    display: flex;
+    justify-content: center;
+}
+.languages_heading
+{
+    display: flex;
+    align-items: center;
 }
 #language_logo
 {
     width: 27PX;
     height: 27PX;
+}
+#vue
+{
+    color: #41B883;
+    font-size: 24px;
+    line-height: 38px;
+    font-weight: 300;
+    padding-left: 10px;
 }
