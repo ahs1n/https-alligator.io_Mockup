@@ -270,14 +270,15 @@ header
     font-weight: 300;
     color: #efbb35;
     margin-block-end: 0em;
+    margin-block-start: 3em;
 }
 .alligator_head_text p
 {
     font-size: 22px;
     font-weight: 300;
-    line-height: 36px;
+    line-height: 1.6;
     color: #fff;
-    width: 820px;
+    width: 817px;
     margin-block-end: 0em;
     /* text-align: center; */
 }
@@ -287,6 +288,11 @@ header
     font-weight: 300;
     line-height: 36px;
     color: #fff;
-    width: 820px;
+    width: 785px;
     /* text-align: center; */
+}
+.alligator_head_text a
+{
+    text-decoration: none;
+    color:#efbb35;
 }
