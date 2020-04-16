@@ -891,7 +891,7 @@ hr {
 }
 
 /* Angular 2+ */
-.langularuage_heading_angular
+.language_heading_angular
 {
     display: flex;
     align-items: center;
@@ -905,7 +905,7 @@ hr {
     padding-left: 10px;
     margin-block-end: 0;
 }
-.langularuage_card_angular
+.language_card_angular
 {
     height: 340px;
     width: 864px;
@@ -916,7 +916,7 @@ hr {
     justify-content: center;
     justify-content: space-around;
 }
-.langularuage_card_angular h3
+.language_card_angular h3
 {
     width: 200px;
     margin-block-end: 0em;
@@ -927,7 +927,7 @@ hr {
     color: #A69912;
     font-weight: 300;
 }
-.langularuage_card_angular a
+.language_card_angular a
 {
     text-decoration: none;
     margin-block-end: 0em;
