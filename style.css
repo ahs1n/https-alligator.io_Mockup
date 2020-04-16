@@ -459,7 +459,7 @@ header
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
-.languages button
+.vue_button
 {
     height: 45px;
     width: 137px;
@@ -473,7 +473,7 @@ header
 }
 hr {
     width: 15%;
-    height: 2px;
+    height: 3px;
     border-top: 4px solid var(--yellow3);
     margin: 2.5em auto 2.3em;
     background-color: #F7DF1E;
@@ -603,10 +603,10 @@ hr {
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
-.languages button
+.react_button
 {
     height: 45px;
-    width: 137px;
+    width: 152px;
     border: none;
     border-radius: 8px;
     font-size: 16px;
