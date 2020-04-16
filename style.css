@@ -704,7 +704,7 @@ hr {
 .row_2_card_js
 {
     /* border: red 1px solid; */
-    height: 127px;
+    height: 152px;
     width: 264px;
     background-color: #1A1D24;
     border-bottom-right-radius: 20px;
@@ -715,7 +715,7 @@ hr {
 }
 .row_2_card_js_color-1
 {
-    height: 120px;
+    height: 150px;
     width: 255px;
     background-color: #C7B622;
     border: none;
@@ -724,7 +724,7 @@ hr {
 }
 .row_2_card_js_color-2
 {
-    height: 120px;
+    height: 150px;
     width: 255px;
     background-color: #C7B622;
     border: none;
@@ -733,7 +733,7 @@ hr {
 }
 .row_2_card_js_color-3
 {
-    height: 120px;
+    height: 150px;
     width: 255px;
     background-color: #C7B622;
     border: none;
