@@ -393,7 +393,7 @@ header
 {
     height: 120px;
     width: 255px;
-    background-color: #61DAFB;
+    background-color: #41B883;
     /* border: red 1px solid; */
     border: none;
     border-bottom-right-radius: 20px;
@@ -412,7 +412,7 @@ header
 {
     height: 120px;
     width: 255px;
-    background-color: #61DAFB;
+    background-color: #41B883;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
@@ -421,7 +421,7 @@ header
 .row_2_card
 {
     /* border: red 1px solid; */
-    height: 150px;
+    height: 127px;
     width: 264px;
     background-color: #1A1D24;
     border-bottom-right-radius: 20px;
@@ -432,27 +432,27 @@ header
 }
 .row_2_card_color-1
 {
-    height: 148px;
+    height: 120px;
     width: 255px;
-    background-color: #F7DF1E;
+    background-color: #41B883;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_color-2
 {
-    height: 148px;
+    height: 120px;
     width: 255px;
-    background-color: #3399FE;
+    background-color: #41B883;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_color-3
 {
-    height: 148px;
+    height: 120px;
     width: 255px;
-    background-color: #3399FE;
+    background-color: #41B883;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
