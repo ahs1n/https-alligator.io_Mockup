@@ -74,7 +74,7 @@ header
 /* Main */
 .main
 {
-    height: 6910px;
+    height: 6556px;
     background-color: #222831;
     /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0 91.5%); */
 
@@ -1437,4 +1437,11 @@ hr {
     font-weight: 300;
     color: #dfa612;
     background-color: #12151E;    
+}
+
+/* Footer */
+footer
+{
+    height: 400px;
+    display: flex;
 }
