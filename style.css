@@ -1457,7 +1457,7 @@ footer
     width: 780px;
     display: flex;
     justify-content: flex-end;
-    /* border: red solid 1px; */
+    border: red solid 1px;
 
     /* margin-left: ; */
 }
@@ -1491,7 +1491,7 @@ footer
     display: flex;
     justify-content: flex-end;
     margin-top: 5px;
-    /* border: red solid 1px; */
+    border: red solid 1px;
 }
 .footer_textbox2 a {
     text-decoration: none;
@@ -1507,6 +1507,21 @@ footer
 footer p
 {
     text-align: center;
-    width: 300px;
+    width: 850px;
     color: #dfa612;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Recursive, Menlo, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", Courier, monospace;
+    border: red solid 1px;
+    
+}
+#p_text
+{
+    text-decoration: double underline;
+    color: #dfa612;
+}
+#p2
+{
+    width: 550px;
 }
