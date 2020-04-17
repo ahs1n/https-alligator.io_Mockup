@@ -1310,7 +1310,7 @@ hr {
 }
 #node_js
 {
-    color: rebeccapurple;
+    color: #336633;
     font-size: 24px;
     line-height: 38px;
     font-weight: 300;
@@ -1336,7 +1336,7 @@ hr {
     font-size: 22px;
     text-align: center;
     line-height: 1;
-    color: #C7B622;
+    color: #dfa612;
     font-weight: 300;
 }
 .language_card_node_js a
@@ -1347,7 +1347,7 @@ hr {
 }
 .row_1_card_node_js
 {
-    height: 127px;
+    height: 129px;
     width: 264px;
     background-color: #1A1D24;
     border-bottom-right-radius: 20px;
@@ -1362,7 +1362,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     /* border: red 1px solid; */
     border: none;
     border-bottom-right-radius: 20px;
@@ -1372,7 +1372,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
@@ -1381,7 +1381,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
@@ -1390,7 +1390,7 @@ hr {
 .row_2_card_node_js
 {
     /* border: red 1px solid; */
-    height: 152px;
+    height: 129px;
     width: 264px;
     background-color: #1A1D24;
     border-bottom-right-radius: 20px;
@@ -1401,27 +1401,27 @@ hr {
 }
 .row_2_card_node_js_color-1
 {
-    height: 148px;
+    height: 125px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_node_js_color-2
 {
-    height: 148px;
+    height: 125px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_node_js_color-3
 {
-    height: 148px;
+    height: 126px;
     width: 255px;
-    background-color: rebeccapurple;
+    background-color: #336633;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
