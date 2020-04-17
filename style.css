@@ -1036,7 +1036,7 @@ hr {
 }
 #workflow
 {
-    color: #C7B622;
+    color: #f442c2;
     font-size: 24px;
     line-height: 38px;
     font-weight: 300;
@@ -1088,7 +1088,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     /* border: red 1px solid; */
     border: none;
     border-bottom-right-radius: 20px;
@@ -1098,7 +1098,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
@@ -1107,7 +1107,7 @@ hr {
 {
     height: 120px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
@@ -1127,27 +1127,27 @@ hr {
 }
 .row_2_card_workflow_color-1
 {
-    height: 150px;
+    height: 148px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_workflow_color-2
 {
-    height: 150px;
+    height: 148px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
 }
 .row_2_card_workflow_color-3
 {
-    height: 150px;
+    height: 148px;
     width: 255px;
-    background-color: #C7B622;
+    background-color: #f442c2;
     border: none;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 4px;
