@@ -978,7 +978,7 @@ hr {
 .row_2_card_angular
 {
     /* border: red 1px solid; */
-    height: 126px;
+    height: 150px;
     width: 264px;
     background-color: #1A1D24;
     border-bottom-right-radius: 20px;
@@ -989,7 +989,7 @@ hr {
 }
 .row_2_card_angular_color-1
 {
-    height: 125px;
+    height: 149px;
     width: 255px;
     background-color: #DD0031;
     border: none;
@@ -998,7 +998,7 @@ hr {
 }
 .row_2_card_angular_color-2
 {
-    height: 125px;
+    height: 149px;
     width: 255px;
     background-color: #DD0031;
     border: none;
@@ -1007,7 +1007,7 @@ hr {
 }
 .row_2_card_angular_color-3
 {
-    height: 125px;
+    height: 149px;
     width: 255px;
     background-color: #DD0031;
     border: none;
@@ -1017,12 +1017,13 @@ hr {
 .angular_button
 {
     height: 45px;
-    width: 139px;
+    width: 170px;
     border: none;
     border-radius: 8px;
     font-size: 16px;
     line-height: 26px;
     font-weight: 300;
     color: #F7DF1E;
-    background-color: #12151E;    
+    background-color: #12151E;
+    margin-top: 5px;
 }
